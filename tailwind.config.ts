@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				status: {
+					new: '#8b5cf6',
+					contacted: '#3b82f6',
+					documentation: '#10b981',
+					completed: '#22c55e',
+					lost: '#ef4444'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
